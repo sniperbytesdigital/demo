@@ -2,4 +2,4 @@
 
 Install with:
 ```bash
-pip install git+https://github.com/yourusername/hello-package.git
+pip install git+https://github.com/sniperbytesdigital/demo.git
